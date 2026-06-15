@@ -106,4 +106,8 @@ Dominio:
 
 ## Alunos
 
-Preencher com os nomes do grupo.
+- Paulo César Muchalski
+- Paulo Vitor
+- Giulia Casteluci
+- Juliano
+- Gabriela Otte
